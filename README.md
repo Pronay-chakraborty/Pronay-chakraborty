@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pronay
+# Hi, I'm Pronay
 
 🎓 CSE Student  
 💻 I love Coding (Python | C++ | Java)  
@@ -7,10 +7,11 @@
 ---
 
 ## 🔧 Skills
-- Python 🐍  
-- C++  
-- Java  
-- HTML, CSS  
+- Python   
+- C++
+- C
+- Java (learning) 
+- HTML, CSS  (learning)
 
 ---
 

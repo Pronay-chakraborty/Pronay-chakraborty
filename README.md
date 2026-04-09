@@ -1,6 +1,5 @@
-<!-- 🌈 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:00f5ff&height=250&section=header&text=Pronay%20Chakraborty&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlingnY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Pronay%20Chakraborty&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </p>
 
 <!-- 👀 Profile Views + Typing Animation -->

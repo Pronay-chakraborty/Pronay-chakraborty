@@ -1,4 +1,4 @@
-# Hi, I'm Pronay
+# Hi, I'm PRONAY CHAKRABORTY
 
 🎓 CSE Student  
 💻 I love Coding (Python | C++ | Java)  

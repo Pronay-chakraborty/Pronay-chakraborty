@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Pronay%20Chakraborty&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Pronay%20Chakraborty&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <!-- 👀 Profile Views + Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pronay-chakraborty&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Python+Developer;Future+Software+Engineer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Python+Developer;Future+Software+Engineer;Open+Source+Learner"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pronay&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
